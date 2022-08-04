@@ -19,8 +19,8 @@ README dosyası, bir adet de index.html barındırıyor.
 
   Linux için :
 
-   (cd kodluyoruzilkrepo)
-   (code .)
+   cd kodluyoruzilkrepo
+   code .
 
 
 # Contributing
