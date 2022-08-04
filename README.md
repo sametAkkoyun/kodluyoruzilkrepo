@@ -33,3 +33,5 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 # License
 
 [MIT](https://web.mit.edu/)
+
+[patika <3 ben](https://www.patika.dev/)
