@@ -8,7 +8,7 @@ README dosyası, bir adet de index.html barındırıyor.
 
 # Installation
 
-- Öncelikle projeyi clonelayın. 
+  Öncelikle projeyi clonelayın. 
 
     (https://github.com/sametAkkoyun/kodluyoruzilkrepo.git)
 
