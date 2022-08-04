@@ -33,6 +33,9 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 
 
+![alt text](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+
+
 
 
 
